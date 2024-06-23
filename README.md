@@ -1,7 +1,7 @@
 # Pico Tutorial Projects
 Hier findet ihr den Code aus meinen Video Tutorials über den Raspberry Pi Pico (RP2040)
 
-|Video|Zugehöriges Code Beispiel||
+|Video|Code Beispiel 1|Code Beispiel 2|
 |---|---|---|
 |[<img src="https://img.youtube.com/vi/Krq4fd8M79U/0.jpg" width="180" height="130">](https://www.youtube.com/watch?v=Krq4fd8M79U)|ohne||
 |[<img src="https://img.youtube.com/vi/Cyo-i7R9KsM/0.jpg" width="180" height="130">](https://www.youtube.com/watch?v=Cyo-i7R9KsM)|ohne||
